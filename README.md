@@ -25,4 +25,5 @@ Publicado via GitHub Pages:
 ---
 
 Desenvolvido por [IgorJF](https://github.com/IgorJF)
+
 Documentação feita por IA.
